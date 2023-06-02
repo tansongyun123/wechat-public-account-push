@@ -42,9 +42,11 @@ const USER_CONFIG = {
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
-        { keyword: 'birthday_messday', date: '2022-01-01' },
+        { keyword: 'love_day', date: '2022-01-01' },
         // 结婚纪念日
         { keyword: 'marry_day', date: '2022-09-09' },
+        //生日
+         { keyword: 'birthday_message', date: '2022-09-09' },
       ],
     },
   ],
